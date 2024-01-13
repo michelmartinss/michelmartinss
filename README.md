@@ -60,6 +60,15 @@
     <td>
       Clustering de Métricas RFM
   </tr>
+   <tr>
+    <td>
+      <a href="https://github.com/michelmartinss/analise_imoveis">
+        <img src="https://github.com/michelmartinss/michelmartinss/assets/31022049/4d63f39b-a6ba-4631-8356-bba1a740b5a1" width="90">
+      </a>
+    </td>
+    <td>
+      Análise de Imóveis
+  </tr>
 
   
 </table>
