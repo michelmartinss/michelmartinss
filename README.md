@@ -10,7 +10,7 @@
     <td style="text-align: center;"><img src="https://github.com/michelmartinss/michelmartinss/assets/31022049/212552ef-940a-47f8-a14e-c993277505ef" width="120"></td>
     <td style="text-align: center;"><img src="https://github.com/michelmartinss/michelmartinss/assets/31022049/d5ecfb15-b035-4c27-b2d7-7a678bd02a5e" width="120"></td>
   </tr>
-</table><br>
+</table>
 
 #### Linguagens, Bibliotecas, Ferramentas e Ambientes
 <table style="border-collapse: collapse; border: none;">
