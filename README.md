@@ -12,20 +12,17 @@
       </a>
     </td>
     <td>
-      <a href="link_para_o_repositorio_1">Nome do Repositório 1</a><br>
-      Breve descrição do repositório 1.
+      Dashboard de E-commerce
     </td>
   </tr>
   <tr>
     <td>
-      <a href="link_para_o_repositorio_2">
-        <img src="link_para_imagem_do_repositorio_2" width="300">
+      <a href="https://github.com/michelmartinss/Dashborad_Indicadores_PowerBI">
+        <img src="https://github.com/michelmartinss/Dashborad_Indicadores_PowerBI/assets/31022049/14a418e7-3466-4e8e-a682-05b23cd164b5" width="100">
       </a>
     </td>
     <td>
-      <a href="link_para_o_repositorio_2">Nome do Repositório 2</a><br>
-      Breve descrição do repositório 2.
-    </td>
+      Dashboard para monitoramento de Indicadores
   </tr>
   <!-- Repita para outros repositórios -->
 </table>
