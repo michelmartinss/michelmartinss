@@ -3,6 +3,13 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelmartinss&theme=defaultk&show_icons=true)
 
 ## Meus Repositórios
+
+- [Dashboard](https://github.com/michelmartinss/Dashboard_E-commerce_PowerBI): Este repositório contém projetos de análise de dados em Python.
+  ![Gráfico de Análise]<img src="https://github.com/michelmartinss/dashboard-e-commerce-power-bi/assets/31022049/33194125-c08a-4626-bd0d-bb1fd5d6dd36" width="50">
+
+
+
+
 <img src="https://github.com/michelmartinss/dashboard-e-commerce-power-bi/assets/31022049/33194125-c08a-4626-bd0d-bb1fd5d6dd36" width="50">
 - [Dashboard_E-commerce_PowerBI](https://github.com/michelmartinss/Dashboard_E-commerce_PowerBI): Breve descrição.
 
