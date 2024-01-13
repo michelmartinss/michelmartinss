@@ -2,6 +2,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelmartinss&theme=defaultk&show_icons=true)
 
+## Meus Repositórios
+- [Dashboard_E-commerce_PowerBI](https://github.com/michelmartinss/Dashboard_E-commerce_PowerBI): Breve descrição.
+  ![Imagem do Repositório 1](link_da_imagem)
+- [Nome do Repositório 2](link): Breve descrição.
+  ![Imagem do Repositório 2](link_da_imagem)
+
 ### Tecnologias e Frameworks 
 
 <table style="border-collapse: collapse; border: none;">
