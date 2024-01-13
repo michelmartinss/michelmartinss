@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelmartinss&theme=defaultk&show_icons=true)
 
-## Tecnologias utlizadas
+## Domínio das seguintes Tecnologías na área de Data Sciense
 
 ### Linguagens de Programação
 <table>
