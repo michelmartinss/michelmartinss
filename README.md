@@ -33,6 +33,17 @@
     <td>
       Data Preparation
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/michelmartinss/Regressao_Linear_Marketing">
+        <img src="https://github.com/michelmartinss/Regressao_Linear_Marketing/assets/31022049/1b2a1e41-3e6f-48bd-a232-6bd8c13500ed" width="90">
+       </a>
+    </td>
+    <td>
+      Modelo de Regressão Linear para marketing
+  </tr>
+
+  
 </table>
 
 
