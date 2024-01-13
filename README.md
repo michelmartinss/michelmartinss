@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelmartinss&theme=defaultk&show_icons=true)
 
-#### Domínio das seguintes áreas de Data Sciense
+#### Áreas da Ciência de Dados
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
