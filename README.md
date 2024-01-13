@@ -16,7 +16,7 @@
   </tr>
 </table><br>
 
-![Snake animation](https://github.com/michelmartinss/michelmartinss/blob/output/github-contribution-grid-snake.svg)
+
 
           
           
