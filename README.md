@@ -4,17 +4,33 @@
 
 ## Meus Repositórios
 
-- [Dashboard](https://github.com/michelmartinss/Dashboard_E-commerce_PowerBI): Este repositório contém projetos de análise de dados em Python.
-  ![Gráfico de Análise]<img src="https://github.com/michelmartinss/dashboard-e-commerce-power-bi/assets/31022049/33194125-c08a-4626-bd0d-bb1fd5d6dd36" width="50">
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/michelmartinss/Dashboard_E-commerce_PowerBI">
+        <img src="https://github.com/michelmartinss/dashboard-e-commerce-power-bi/assets/31022049/33194125-c08a-4626-bd0d-bb1fd5d6dd36" width="100">
+      </a>
+    </td>
+    <td>
+      <a href="link_para_o_repositorio_1">Nome do Repositório 1</a><br>
+      Breve descrição do repositório 1.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="link_para_o_repositorio_2">
+        <img src="link_para_imagem_do_repositorio_2" width="300">
+      </a>
+    </td>
+    <td>
+      <a href="link_para_o_repositorio_2">Nome do Repositório 2</a><br>
+      Breve descrição do repositório 2.
+    </td>
+  </tr>
+  <!-- Repita para outros repositórios -->
+</table>
 
 
-
-
-<img src="https://github.com/michelmartinss/dashboard-e-commerce-power-bi/assets/31022049/33194125-c08a-4626-bd0d-bb1fd5d6dd36" width="50">
-- [Dashboard_E-commerce_PowerBI](https://github.com/michelmartinss/Dashboard_E-commerce_PowerBI): Breve descrição.
-
-- [Nome do Repositório 2](link): Breve descrição.
-  ![Imagem do Repositório 2](link_da_imagem)
 
 ### Tecnologias e Frameworks 
 
