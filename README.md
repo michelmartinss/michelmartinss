@@ -10,9 +10,9 @@
     <td style="text-align: center;"><img src="https://github.com/michelmartinss/michelmartinss/assets/31022049/212552ef-940a-47f8-a14e-c993277505ef" width="120"></td>
     <td style="text-align: center;"><img src="https://github.com/michelmartinss/michelmartinss/assets/31022049/d5ecfb15-b035-4c27-b2d7-7a678bd02a5e" width="120"></td>
   </tr>
-</table><br><br>
+</table><br>
 
-Linguagens e Bibliotecas
+#### Linguagens, Bibliotecas, Ferramentas e Ambientes
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="text-align: center;"><img src="https://github.com/michelmartinss/Regressao_Linear_Marketing/assets/31022049/95dc35b8-f655-4c0e-892b-b3713a1e2421" width="40"></td>
