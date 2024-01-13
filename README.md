@@ -1,4 +1,4 @@
-## Esse Repositório possui minhas Análises na área de Data Science e Machine Learning
+## Minhas Análises na área de Data Science e Machine Learning
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelmartinss&theme=defaultk&show_icons=true)
 
