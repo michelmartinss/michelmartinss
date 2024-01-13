@@ -4,7 +4,7 @@
 
 ## Meus Repositórios
 - [Dashboard_E-commerce_PowerBI](https://github.com/michelmartinss/Dashboard_E-commerce_PowerBI): Breve descrição.
-<img src="https://github.com/michelmartinss/dashboard-e-commerce-power-bi/assets/31022049/33194125-c08a-4626-bd0d-bb1fd5d6dd36" width="600">)
+<img src="https://github.com/michelmartinss/dashboard-e-commerce-power-bi/assets/31022049/33194125-c08a-4626-bd0d-bb1fd5d6dd36" width="50">)
 - [Nome do Repositório 2](link): Breve descrição.
   ![Imagem do Repositório 2](link_da_imagem)
 
