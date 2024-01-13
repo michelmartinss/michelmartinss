@@ -51,6 +51,15 @@
     <td>
       Prevendo Churn
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/michelmartinss/Clustering_metricas_RFM">
+        <img src="https://github.com/michelmartinss/Clustering_metricas_RFM/assets/31022049/f107b00a-8dc2-43c1-b91d-949c2639c78d" width="90">
+      </a>
+    </td>
+    <td>
+      Clustering de Métricas RFM
+  </tr>
 
   
 </table>
