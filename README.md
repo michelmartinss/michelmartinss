@@ -28,7 +28,6 @@
 <table>
   <tr>
     <!-- Coloque os ícones das bibliotecas aqui (ex: Pandas, Matplotlib) -->
-    <td><img src="https://github.com/michelmartinss/Regressao_Linear_Marketing/assets/31022049/64ad5af2-4a51-4587-b385-c3e5df20e4e4" width="40" alt="Pandas"></td>
     <td style="border:none;"><img src="https://github.com/michelmartinss/Regressao_Linear_Marketing/assets/31022049/64ad5af2-4a51-4587-b385-c3e5df20e4e4" width="80"></td>
     <td style="border:none;"><img src="https://github.com/michelmartinss/Regressao_Linear_Marketing/assets/31022049/1818bf1d-2f92-467b-afae-6af653625578" width="80"></td>
     <td style="border:none;"><img src="https://github.com/michelmartinss/Regressao_Linear_Marketing/assets/31022049/245c6aa4-52a4-452e-b29b-ef1d73b50524" width="80"></td>
@@ -41,9 +40,9 @@
 <table>
   <tr>
     <!-- Ícone para Jupyter Notebooks -->
-    <td><img src="link_para_o_ícone_do_Jupyter" width="40" alt="Jupyter"></td>
+    <td><img src="https://github.com/michelmartinss/Regressao_Linear_Marketing/assets/31022049/e5b9f41b-49d1-487d-abea-4a8936ca487e" width="40" alt="Jupyter"></td>
     <!-- Ícone para Google Colab -->
-    <td><img src="link_para_o_ícone_do_Colab" width="40" alt="Colab"></td>
+    <td><img src="https://github.com/michelmartinss/Regressao_Linear_Marketing/assets/31022049/37619a9d-a66a-4c49-a4c4-3f3a0571e3c4" width="40" alt="Colab"></td>
   </tr>
 </table>
 
