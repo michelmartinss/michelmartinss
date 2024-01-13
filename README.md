@@ -1,4 +1,5 @@
 ## Minhas Análises na área de Data Science e Machine Learning
+Nesse reposiório, tem um pouco da minha habilidade na aplicação de técnicas em Ciências de Dados.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelmartinss&theme=defaultk&show_icons=true)
 
