@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelmartinss&theme=defaultk&show_icons=true)
 
-#### Áreas da Ciência de Dados
+### Tecnologias e Frameworks 
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
