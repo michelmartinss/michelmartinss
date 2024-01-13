@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelmartinss&theme=defaultk&show_icons=true)
 
-## Domínio das seguintes Tecnologías na área de Data Sciense
+### Domínio das seguintes Tecnologías na área de Data Sciense
 
 <table border="0" style="border-collapse: collapse; border: none;">
   <tr>
@@ -26,7 +26,6 @@
     <td style="border:none;"><img src="https://github.com/michelmartinss/michelmartinss/assets/31022049/ee10c5f5-f43a-47f7-a18e-6ea3d4db8b5d" width="80"></td>
     <td style="border:none;"><img src="https://github.com/michelmartinss/michelmartinss/assets/31022049/3aa8fddd-5a35-4c15-8ee9-8551769a1fd7" width="90"></td>
     <td style="border:none;"><img src="https://github.com/michelmartinss/michelmartinss/assets/31022049/ad6850a1-382d-4079-be7b-98ed8f685b49" width="40"></td>
-
   </tr>
 </table><br>
 
