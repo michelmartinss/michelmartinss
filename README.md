@@ -25,6 +25,8 @@
     <td style="border:none;"><img src="https://github.com/michelmartinss/michelmartinss/assets/31022049/da2d056d-86c8-4015-9775-d34e06f3bfb4" width="80"></td>
     <td style="border:none;"><img src="https://github.com/michelmartinss/michelmartinss/assets/31022049/ee10c5f5-f43a-47f7-a18e-6ea3d4db8b5d" width="80"></td>
     <td style="border:none;"><img src="https://github.com/michelmartinss/michelmartinss/assets/31022049/3aa8fddd-5a35-4c15-8ee9-8551769a1fd7" width="90"></td>
+    <td style="border:none;"><img src="https://github.com/michelmartinss/michelmartinss/assets/31022049/ad6850a1-382d-4079-be7b-98ed8f685b49" width="90"></td>
+
   </tr>
 </table><br>
 
