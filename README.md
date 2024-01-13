@@ -19,7 +19,7 @@
   <tr>
     <td style="border:none;"><img src="https://github.com/michelmartinss/michelmartinss/assets/31022049/be07569d-08a8-44d3-9962-1ffb48cd08d4" width="80"></td>
     <td style="border:none;"><img src="https://github.com/michelmartinss/michelmartinss/assets/31022049/6e1b2374-6f67-41f8-be11-7c96c0fe667f" width="80"></td>
-    <td style="border:none;"><img src="https://github.com/michelmartinss/michelmartinss/assets/31022049/90436afa-6a0a-44c9-a79a-c92db876daa0" width="40"></td>
+    <td style="border:none;"><img src="https://github.com/michelmartinss/michelmartinss/assets/31022049/90436afa-6a0a-44c9-a79a-c92db876daa0" width="60"></td>
     <td style="border:none;"><img src="https://github.com/michelmartinss/michelmartinss/assets/31022049/95b4f29b-3dfd-4fd5-82b0-5284c2b9930a" width="80"></td>
     <td style="border:none;"><img src="https://github.com/michelmartinss/michelmartinss/assets/31022049/875763e0-7080-433b-8411-03c7c10b74a5" width="80"></td>
     <td style="border:none;"><img src="https://github.com/michelmartinss/michelmartinss/assets/31022049/da2d056d-86c8-4015-9775-d34e06f3bfb4" width="80"></td>
