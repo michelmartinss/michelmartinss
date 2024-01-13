@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelmartinss&theme=defaultk&show_icons=true)
+
 ## Minhas Análises na área de Data Science e Machine Learning
 Bem-vindo ao meu repositório, aqui você encontrará projetos e análises que demonstram um pouco da minha habilidade na aplicação de técnicas em Ciência de Dados e Machine Learning. 
 
@@ -8,8 +10,6 @@ Exemplos práticos do meu trabalho, que incluem:
  - **Modelagem Preditiva:** Utilização de várias técnicas de Machine Learning para prever tendências e padrões em dados, ajudando na tomada de decisões baseadas em evidências;
  - **Otimização de Algoritmos:** Ajuste fino de modelos para alcançar a melhor performance, equilibrando complexidade e precisão.
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelmartinss&theme=defaultk&show_icons=true)
-
 ## Meus Repositórios
 
 <table>
