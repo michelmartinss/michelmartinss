@@ -14,9 +14,9 @@
     <td style="border:none;"><img src="https://github.com/michelmartinss/Regressao_Linear_Marketing/assets/31022049/f35d0fa5-f95d-4d45-a4b7-e4b699fb328e" width="80"></td>
     <td style="border:none;"><img src="https://github.com/michelmartinss/Regressao_Linear_Marketing/assets/31022049/4fd8096c-5f0a-4c63-a598-f785b19e6e5e" width="80"></td>
     <td style="border:none;"><img src="https://github.com/michelmartinss/Regressao_Linear_Marketing/assets/31022049/e5b9f41b-49d1-487d-abea-4a8936ca487e" width="40"></td>
-    <td style="border:none;"><img src="https://github.com/michelmartinss/Regressao_Linear_Marketing/assets/31022049/37619a9d-a66a-4c49-a4c4-3f3a0571e3c4" width="40"></td>
   </tr>
   <tr style="text-align: center;">
+    <td style="border:none;"><img src="https://github.com/michelmartinss/Regressao_Linear_Marketing/assets/31022049/37619a9d-a66a-4c49-a4c4-3f3a0571e3c4" width="40"></td>
     <td style="border:none;"><img src="https://github.com/michelmartinss/michelmartinss/assets/31022049/be07569d-08a8-44d3-9962-1ffb48cd08d4" width=90"></td>
     <td style="border:none;"><img src="https://github.com/michelmartinss/michelmartinss/assets/31022049/6e1b2374-6f67-41f8-be11-7c96c0fe667f" width="80"></td>
     <td style="border:none;"><img src="https://github.com/michelmartinss/michelmartinss/assets/31022049/90436afa-6a0a-44c9-a79a-c92db876daa0" width="80"></td>
