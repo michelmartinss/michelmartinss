@@ -2,16 +2,18 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelmartinss&theme=defaultk&show_icons=true)
 
-### Domínio das seguintes Tecnologías na área de Data Sciense
+### Domínio das seguintes áreas de Data Sciense
 
-<table border="0" style="border-collapse: collapse; border: none;">
+<table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="text-align: center;"><img src="https://github.com/michelmartinss/michelmartinss/assets/31022049/d71cd45d-63d0-49fb-9ea6-af1d025e1228" width="120"></td>
     <td style="text-align: center;"><img src="https://github.com/michelmartinss/michelmartinss/assets/31022049/212552ef-940a-47f8-a14e-c993277505ef" width="120"></td>
     <td style="text-align: center;"><img src="https://github.com/michelmartinss/michelmartinss/assets/31022049/d5ecfb15-b035-4c27-b2d7-7a678bd02a5e" width="120"></td>
   </tr>
 </table><br><br>
-<table border="0" style="border-collapse: collapse; border: none;">
+
+Linguagens e Bibliotecas
+<table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="text-align: center;"><img src="https://github.com/michelmartinss/Regressao_Linear_Marketing/assets/31022049/95dc35b8-f655-4c0e-892b-b3713a1e2421" width="40"></td>
     <td style="border:none;"><img src="https://github.com/michelmartinss/Regressao_Linear_Marketing/assets/31022049/64ad5af2-4a51-4587-b385-c3e5df20e4e4" width="80"></td>
