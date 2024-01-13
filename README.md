@@ -1,10 +1,10 @@
-### Esse Repositório possui minhas Análises na área de Data Science e Machine Learning
+## Esse Repositório possui minhas Análises na área de Data Science e Machine Learning
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelmartinss&theme=defaultk&show_icons=true)
 
-### Tecnologias utlizadas
+## Tecnologias utlizadas
 
-## Linguagens de Programação
+### Linguagens de Programação
 <table>
   <tr>
     <!-- Coloque o ícone do Python aqui -->
@@ -12,7 +12,7 @@
   </tr>
 </table>
 
-## Bibliotecas de Exploração e Visualização de Dados
+### Bibliotecas de Exploração e Visualização de Dados
 <table>
   <tr>
     <!-- Coloque os ícones das bibliotecas aqui (ex: Pandas, Matplotlib) -->
@@ -24,7 +24,7 @@
   </tr>
 </table>
 
-## Ferramentas e Ambientes
+### Ferramentas e Ambientes
 <table>
   <tr>
     <!-- Ícone para Jupyter Notebooks -->
