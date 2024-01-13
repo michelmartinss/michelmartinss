@@ -1,8 +1,8 @@
-### Olá, eu sou o Michel
+### Esse Repositório possui minhas Análises na área de Data Science e Machine Learning
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelmartinss&theme=defaultk&show_icons=true)
 
-## Tecnologias utlizadas:
+## Tecnologias utlizadas
 <table border="0" style="border-collapse: collapse; border: none;">
   <tr>
     <td style="border:none;"><img src="https://github.com/michelmartinss/Regressao_Linear_Marketing/assets/31022049/95dc35b8-f655-4c0e-892b-b3713a1e2421" width="40"></td>
