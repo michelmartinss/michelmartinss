@@ -42,6 +42,15 @@
     <td>
       Modelo de Regressão Linear para marketing
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/michelmartinss/Prevendo_Churn">
+        <img src="https://github.com/michelmartinss/michelmartinss/assets/31022049/02dfc748-b82b-4e6a-8cb6-e3da14940419" width="90">
+      </a>
+    </td>
+    <td>
+      Prevendo Churn
+  </tr>
 
   
 </table>
