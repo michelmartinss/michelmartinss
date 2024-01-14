@@ -118,12 +118,3 @@ Exemplos práticos do meu trabalho, que incluem:
     <td style="border:none;"><img src="https://github.com/michelmartinss/michelmartinss/assets/31022049/ad6850a1-382d-4079-be7b-98ed8f685b49" width="40"></td>
   </tr>
 </table><br>
-
-
-![Snake animation](https://github.com/michelmartinss/michelmartinss/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
-
-
