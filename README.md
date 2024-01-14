@@ -1,5 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelmartinss&theme=defaultk&show_icons=true)
-
 ## Minhas Análises na área de Data Science e Machine Learning
 Bem-vindo ao meu repositório, aqui você encontrará projetos e análises que demonstram um pouco da minha habilidade na aplicação de técnicas em Ciência de Dados e Machine Learning. 
 
@@ -118,3 +116,4 @@ Exemplos práticos do meu trabalho, que incluem:
     <td style="border:none;"><img src="https://github.com/michelmartinss/michelmartinss/assets/31022049/ad6850a1-382d-4079-be7b-98ed8f685b49" width="40"></td>
   </tr>
 </table><br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelmartinss&theme=defaultk&show_icons=true)
