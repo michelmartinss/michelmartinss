@@ -116,4 +116,6 @@ Exemplos práticos do meu trabalho, que incluem:
     <td style="border:none;"><img src="https://github.com/michelmartinss/michelmartinss/assets/31022049/ad6850a1-382d-4079-be7b-98ed8f685b49" width="40"></td>
   </tr>
 </table><br>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelmartinss&theme=defaultk&show_icons=true)
