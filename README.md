@@ -32,7 +32,7 @@ Exemplos práticos do meu trabalho, que incluem:
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/michelmartinss/Data_PreparationData_Preparation">
+      <a href="https://github.com/michelmartinss/Data_Preparation">
         <img src="https://github.com/michelmartinss/michelmartinss/assets/31022049/11b5ab02-d1df-41a8-aa86-19ddb1a764e4" width="100">
        </a>
     </td>
